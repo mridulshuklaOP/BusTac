@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:title="General">
+
+       <menu>
+
+           <item
+               android:id="@+id/trackbus"
+               android:title="Track your bus"
+               android:icon="@drawable/buslogo">
+           </item>
+
+           <item
+               android:id="@+id/acc"
+               android:title="Account"
+               android:icon="@drawable/account">
+           </item>
+
+       </menu>
+
+    </item>
+
+    <item android:title="Communicate">
+
+        <menu>
+
+            <item
+                android:id="@+id/conus"
+                android:title="Contact Us"
+                android:icon="@drawable/contactlogo">
+            </item>
+
+            <item
+                android:id="@+id/emergency"
+                android:title="EMERGENCY"
+                android:icon="@drawable/emergencyicon">
+            </item>
+
+        </menu>
+
+    </item>
+
+</menu>
+
+
+
+
+
+
+
+
+
+

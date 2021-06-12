@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusTac</string>
+    <string name="title_activity__maps">Map</string>
+    <string name="open_drawer">open_drawer</string>
+    <string name="close_drawer">close_drawer</string>
+    <string name="logout">Logout</string>
+</resources>
